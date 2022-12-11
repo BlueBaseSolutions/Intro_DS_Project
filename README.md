@@ -56,3 +56,5 @@ If you need more information about the cookiecutter-data-science template, check
 2. `conda create --name techlabs cookiecutter`
 3. `conda activate techlabs`
 4. `cookiecutter -c v1 https://github.com/drivendata/cookiecutter-data-science`
+5. `cd <project_name>`
+6. `pip install -r requirements.txt`
